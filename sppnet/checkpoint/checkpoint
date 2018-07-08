@@ -1,0 +1,6 @@
+model_checkpoint_path: "sppnet_trained_0070.ckpt"
+all_model_checkpoint_paths: "sppnet_trained_0030.ckpt"
+all_model_checkpoint_paths: "sppnet_trained_0040.ckpt"
+all_model_checkpoint_paths: "sppnet_trained_0050.ckpt"
+all_model_checkpoint_paths: "sppnet_trained_0060.ckpt"
+all_model_checkpoint_paths: "sppnet_trained_0070.ckpt"
